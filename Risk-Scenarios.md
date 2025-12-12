@@ -1,0 +1,4 @@
+- Ransomware Attack
+- Network Outage
+- Cloud Provider Ausfall
+- Datenbankkorruption
